@@ -273,7 +273,7 @@ allowing evaluators to reproduce the submitted results directly.
 
 ### Team Members
 
-1. **Santosh S** *(Team Lead / Corresponding Member)*
+1. **Santosh S** *(Team Lead )*
 2. **Rashmika**
 3. **Visweshwaran K**
 
