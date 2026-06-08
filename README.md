@@ -1,5 +1,6 @@
 \# Automated Glacial Lake Detection from Multi-Temporal Satellite Imagery
 
+<<<<<<< HEAD
 
 
 \## GLOFeagles '26 Challenge Submission
@@ -573,4 +574,12 @@ This work was developed for the \*\*GLOFeagles '26 Challenge\*\* organized by \*
 
 
 The challenge aims to advance automated glacial lake monitoring systems for improved GLOF risk assessment, climate resilience, and disaster preparedness.
+=======
+-> Required:
+Ext dataset and SNU dataset comparison
+Better then ground truth
+Project Work flow diagram
+Tell about Metrics ( Bar Graph )
+Architecture diagram
+>>>>>>> 464cd06f58856ff53acb456a16df22d210e99a6a
 
