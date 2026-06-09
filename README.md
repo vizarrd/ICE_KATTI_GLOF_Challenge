@@ -296,7 +296,7 @@ The following metrics were used for evaluation:
 
 ## Performance Metrics
 
-<img width="2688" height="1470" alt="Figure_A_Metrics" src="https://github.com/user-attachments/assets/aa74a25e-e759-467d-af5c-1552455d40dd" />
+<img width="1181" height="731" alt="image" src="https://github.com/user-attachments/assets/f8d7759a-1359-4ff5-93fd-93a288f58209" />
 
 
 **Figure A. Quantitative performance metrics of the proposed glacial lake segmentation model evaluated on the validation dataset.**
