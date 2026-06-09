@@ -1,4 +1,4 @@
-<img width="1587" height="2245" alt="Geometric Flip, rotate, elastic" src="https://github.com/user-attachments/assets/97b0f402-f617-4721-bd74-ba27f4780fe5" /># 🌍 Glacier Lake Detection using Deep Learning for GLOF Risk Assessment
+#🌍 Glacier Lake Detection using Deep Learning for GLOF Risk Assessment
 
 ## GLOFeagles '26 Challenge Submission
 
