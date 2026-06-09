@@ -367,7 +367,8 @@ The combination of advanced augmentation, weighted sampling, boundary-aware loss
 
 ## Validation Examples
 
-![Validation Results](images/validation_results.png)
+![Validation Results](<img width="1108" height="293" alt="image" src="https://github.com/user-attachments/assets/e09b3e5d-f2bb-4acc-833b-771da2c58a27" />
+)
 
 
 ## Example 1
