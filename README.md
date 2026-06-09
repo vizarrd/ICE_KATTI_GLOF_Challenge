@@ -77,8 +77,7 @@ Our solution is based on a semantic segmentation pipeline designed specifically 
 # 🔄 Workflow
 
 ## Overall Pipeline
-
-![Project Workflow]<img width="1587" height="2245" alt="Geometric Flip, rotate, elastic" src="https://github.com/user-attachments/assets/80461ce2-5cd4-4a97-aad9-f2d446804d6b" />
+<img width="1587" height="2245" alt="Geometric Flip, rotate, elastic" src="https://github.com/user-attachments/assets/80461ce2-5cd4-4a97-aad9-f2d446804d6b" />
 
 
 
