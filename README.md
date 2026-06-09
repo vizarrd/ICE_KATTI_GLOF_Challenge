@@ -369,18 +369,6 @@ The combination of advanced augmentation, weighted sampling, boundary-aware loss
 
 ![Validation Results](images/validation_results.png)
 
----
-
-# 🌐 Testing on External Online Satellite Images
-
-To evaluate generalization capability, the trained model was tested on publicly available satellite imagery collected from online sources.
-
-### Observations
-
-- Successfully detected unseen glacial lakes.
-- Maintained segmentation quality across different lighting conditions.
-- Produced minimal false positives.
-- Demonstrated strong generalization beyond the training dataset.
 
 ## Example 1
 
@@ -509,7 +497,7 @@ PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE
 
 # 👥 Team Members
 
-| Name | GitHub | LinkedIn |
+| Name | GitHub 🐙| LinkedIn 💼|
 |------|---------|----------|
 | **Santosh S (Team Lead)** | [GitHub](https://github.com/Sxnthxsh-S3107) | [LinkedIn](https://www.linkedin.com/in/santhosh-s-553436322) |
 | Rashmika | [GitHub](https://github.com/rashmikaishere) | [LinkedIn](https://www.linkedin.com/in/rashmika-m-s) |
