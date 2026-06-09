@@ -370,6 +370,8 @@ The combination of advanced augmentation, weighted sampling, boundary-aware loss
 <img width="1108" height="293" alt="image" src="https://github.com/user-attachments/assets/251d7417-a768-4ca8-9a55-8140fe8a1d10" />
 
 
+<img width="1231" height="307" alt="image" src="https://github.com/user-attachments/assets/d125db7f-993f-423d-97eb-ca1646964121" />
+
 
 ## Example 1
 
