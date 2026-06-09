@@ -373,25 +373,18 @@ The combination of advanced augmentation, weighted sampling, boundary-aware loss
 
 ## Example 1
 
-### Input Image
+### Satellite Image vs Predicted Mask 
 
-![Online Image 1](images/online_test_1.png)
+<img width="989" height="338" alt="image" src="https://github.com/user-attachments/assets/6aacc509-8427-427a-b840-a28dad0f431e" />
 
-### Predicted Mask
-
-![Prediction 1](images/prediction_1.png)
 
 ---
 
 ## Example 2
 
-### Input Image
+### Satellite Image vs Predicted Mask 
 
-![Online Image 2](images/online_test_2.png)
-
-### Predicted Mask
-
-![Prediction 2](images/prediction_2.png)
+<img width="1337" height="455" alt="image" src="https://github.com/user-attachments/assets/a2c329a1-0844-4450-9f7c-f02f658e3258" />
 
 ---
 
