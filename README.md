@@ -318,7 +318,7 @@ The model achieved an **Intersection over Union (IoU) of 51.61%**, which serves 
 ## Confusion Matrix Analysis
 
 
-<img width="2688" height="1491" alt="Figure_B_Confusion_Matrix" src="https://github.com/user-attachments/assets/e115f5ec-fe44-4e2f-971a-01a84213bc89" />
+<img width="796" height="565" alt="4587ed14-7521-4604-a15f-2bf437e42bab" src="https://github.com/user-attachments/assets/b07b7cef-e28b-4231-b1e8-69e3a1903f21" />
 
 **Figure B. Pixel-level confusion matrix evaluated on the validation dataset at a probability threshold of 0.4.**
 
