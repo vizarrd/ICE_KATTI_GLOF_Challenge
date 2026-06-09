@@ -1,4 +1,4 @@
-#🌍 Glacier Lake Detection using Deep Learning for GLOF Risk Assessment
+# 🌍 Glacier Lake Detection using Deep Learning for GLOF Risk Assessment
 
 ## GLOFeagles '26 Challenge Submission
 
