@@ -77,8 +77,10 @@ Our solution is based on a semantic segmentation pipeline designed specifically 
 # 🔄 Workflow
 
 ## Overall Pipeline
-<img width="1587" height="2245" alt="Geometric Flip, rotate, elastic" src="https://github.com/user-attachments/assets/80461ce2-5cd4-4a97-aad9-f2d446804d6b" />
-
+<p align="center">
+  <img src="<img width="1587" height="2245" alt="Geometric Flip, rotate, elastic" src="https://github.com/user-attachments/assets/7294a255-e778-42fd-9e07-a172c42708fb" />
+" width="600">
+</p>
 
 
 The complete workflow follows the steps below:
