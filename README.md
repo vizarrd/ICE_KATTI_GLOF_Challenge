@@ -296,20 +296,20 @@ The following metrics were used for evaluation:
 
 ## Performance Metrics
 
-<img width="2688" height="1470" alt="Figure_A_Metrics" src="https://github.com/user-attachments/assets/aa74a25e-e759-467d-af5c-1552455d40dd" />
+<img width="1181" height="731" alt="image" src="https://github.com/user-attachments/assets/f8d7759a-1359-4ff5-93fd-93a288f58209" />
 
 
 **Figure A. Quantitative performance metrics of the proposed glacial lake segmentation model evaluated on the validation dataset.**
 
 | Metric | Score (%) |
 |---------|---------:|
-| IoU | 51.61 |
-| Precision | 68.99 |
-| Recall | 67.19 |
-| F1 Score | 68.08 |
-| Dice Score | 68.08 |
-| Specificity | 99.52 |
-| Cohen's Kappa | 67.58 |
+| IoU | 59.35 |
+| Precision | 72.39 |
+| Recall | 76.72 |
+| F1 Score | 74.49 |
+| Dice Score | 74.49 |
+| Specificity | 99.31 |
+| Cohen's Kappa | 73.87 |
 
 The model achieved an **Intersection over Union (IoU) of 51.61%**, which serves as the primary evaluation metric for the challenge. Precision and Recall values remain well balanced, resulting in an F1 Score of 68.08%. The high specificity of 99.52% indicates strong discrimination between glacial lakes and background regions, while a Cohen's Kappa score of 67.58% demonstrates substantial agreement between predictions and ground-truth annotations.
 
@@ -369,6 +369,8 @@ The combination of advanced augmentation, weighted sampling, boundary-aware loss
 
 <img width="1108" height="293" alt="image" src="https://github.com/user-attachments/assets/251d7417-a768-4ca8-9a55-8140fe8a1d10" />
 
+
+<img width="1231" height="307" alt="image" src="https://github.com/user-attachments/assets/d125db7f-993f-423d-97eb-ca1646964121" />
 
 
 ## Example 1
