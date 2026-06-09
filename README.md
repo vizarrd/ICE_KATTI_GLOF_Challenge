@@ -96,19 +96,38 @@ The complete workflow follows the steps below:
 
 # 📊 Dataset Preparation
 
-The provided challenge dataset consists of satellite images and corresponding ground truth segmentation masks.
 
-The dataset was divided into:
 
-| Dataset Split | Percentage |
-|--------------|------------|
-| Training Set | 80% |
-| Validation Set | 20% |
+The provided challenge dataset consists of satellite images and corresponding ground-truth segmentation masks for glacial lake segmentation. The dataset was divided into training and validation subsets using stratified sampling to maintain a balanced representation of different glacial lake categories.
 
-Stratified sampling was used to maintain balanced representation of different glacial lake categories.
+### Dataset Split
 
----
+| Dataset Split | Percentage | Number of Images |
+|--------------|------------|------------------|
+| Training Set | 80% | 48 |
+| Validation Set | 20% | 12 |
 
+### Label Subsets
+
+The dataset is organized into six label subsets representing different environmental conditions and challenges commonly encountered in glacial lake detection:
+
+- Cloud Cover
+- Debris Cover
+- Moraine
+- Snow Cover
+- Terrain Shadow
+- Turbidity
+
+### Data Structure
+
+For each label subset, the challenge organizers provided:
+
+1. **Original Satellite Images** – Remote sensing images containing glacial lakes under varying environmental conditions.
+2. **Ground-Truth Segmentation Masks** – Pixel-wise annotated masks identifying the exact boundaries of glacial lakes.
+
+The original images are used as inputs to the segmentation model, while the corresponding masks serve as ground-truth labels during training and validation. This image-mask pairing enables supervised learning for accurate glacial lake segmentation.
+
+The inclusion of diverse label subsets such as cloud-covered, debris-covered, snow-covered, and turbid lakes ensures that the trained model can generalize effectively across a wide range of real-world glacial lake scenarios.
 # 🔧 Data Augmentation
 
 To improve robustness against varying environmental conditions, extensive augmentation techniques were applied.
