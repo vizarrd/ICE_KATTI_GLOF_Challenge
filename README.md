@@ -303,13 +303,13 @@ The following metrics were used for evaluation:
 
 | Metric | Score (%) |
 |---------|---------:|
-| IoU | 51.61 |
-| Precision | 68.99 |
-| Recall | 67.19 |
-| F1 Score | 68.08 |
-| Dice Score | 68.08 |
-| Specificity | 99.52 |
-| Cohen's Kappa | 67.58 |
+| IoU | 59.35 |
+| Precision | 72.39 |
+| Recall | 76.72 |
+| F1 Score | 74.49 |
+| Dice Score | 74.49 |
+| Specificity | 99.31 |
+| Cohen's Kappa | 73.87 |
 
 The model achieved an **Intersection over Union (IoU) of 51.61%**, which serves as the primary evaluation metric for the challenge. Precision and Recall values remain well balanced, resulting in an F1 Score of 68.08%. The high specificity of 99.52% indicates strong discrimination between glacial lakes and background regions, while a Cohen's Kappa score of 67.58% demonstrates substantial agreement between predictions and ground-truth annotations.
 
