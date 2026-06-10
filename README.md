@@ -509,7 +509,6 @@ PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE
 This work was developed as part of the GLOFeagles '26 Challenge under NCVPRIPG 2026, organized by Shiv Nadar University Chennai.
 
 We thank the organizers for providing the dataset, evaluation protocol, and challenge platform that enabled this work.
-
 ---
 
 **Team ICE KATTI**  
