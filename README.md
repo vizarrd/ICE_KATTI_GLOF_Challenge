@@ -497,7 +497,7 @@ PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE
 |------|---------|----------|
 | **Santosh S (Team Lead)** | [GitHub](https://github.com/Sxnthxsh-S3107) | [LinkedIn](https://www.linkedin.com/in/santhosh-s-553436322) |
 | Rashmika | [GitHub](https://github.com/rashmikaishere) | [LinkedIn](https://www.linkedin.com/in/rashmika-m-s) |
-| Visweshwaran K | [GitHub](https://github.com/vizarrd) | [LinkedIn](https://linkedin.com/in/your-linkedin) |
+| Visweshwaran K | [GitHub](https://github.com/vizarrd) | [LinkedIn](https://www.linkedin.com/in/visweshwaran-k-54a5b1326/) |
 
 ---
 
