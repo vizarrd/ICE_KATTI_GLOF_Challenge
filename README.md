@@ -38,11 +38,12 @@ ICE_KATTI_GLOF_Challenge/
 │   ├── 1_mask.png
 │   ├── 2_mask.png
 │   └── ...
-│
-├── Technical and Evaluation Reports/
-│   ├── Technical_Report.pdf
-│   └── Evaluation_Report.pdf
-│
+│──Youtube_Link
+│──Sample Outputs after masking
+│   ├── Sample_1
+│   ├── Sample_2
+│   └── ...
+├── REPORT.pdf
 ├── README.md
 └── requirements.txt
 ```
