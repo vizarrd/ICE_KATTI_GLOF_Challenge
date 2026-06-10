@@ -484,9 +484,7 @@ To reproduce our results:
 
 # 🎥 Explanation Video
 
-YouTube Link:
-
-PASTE_YOUR_UNLISTED_YOUTUBE_LINK_HERE
+YouTube Link: https://youtu.be/WzjRic_fPHM
 
 ---
 
