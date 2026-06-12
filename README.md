@@ -43,9 +43,11 @@ ICE_KATTI_GLOF_Challenge/
 │   ├── Sample_1
 │   ├── Sample_2
 │   └── ...
+│── Justification of Key Design Choices.md
 ├── REPORT.pdf
 ├── README.md
 └── requirements.txt
+
 ```
 
 ---
