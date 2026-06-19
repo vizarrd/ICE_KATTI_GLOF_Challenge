@@ -15,6 +15,15 @@ Our approach utilizes a **U-Net++ semantic segmentation architecture with an Eff
 ```text
 ICE_KATTI_GLOF_Challenge/
 
+├── 00_Validation/
+│   ├── Validation_Old_Model/
+│   │   ├── Validation_Old_Model.ipynb
+│   │   ├── Labeled_Outputs/
+│   │        
+│   ├── Validation_Retrained_Model/
+│       ├── Validation_Retrained_Model.ipynb
+│       ├── Labeled_Outputs/
+│
 ├── Trained model files/
 │   ├── glacier_lake_model_final.pth
 │   └── glacier_lake_checkpoint.pth
@@ -23,27 +32,34 @@ ICE_KATTI_GLOF_Challenge/
 │   ├── train.py
 │   ├── inference.py
 │   ├── model_architecture.py
-│   └── utils.py
-│   └──Lake_Glacier_Detection_full_source_code
+│   ├── utils.py
+│   └── Lake_Glacier_Detection_full_source_code/
+│
 ├── Python Notebook/
 │   └── Glacier_Lake_Detection.ipynb
-│───SNU GLOF 2026 Dataset
-|   └── Label_Subset
-|       └── Class_Labels
-|       └── Ground truth
-│   ├── 1.png
-│   ├── 2.png
-│   └── ...
+│
+├── SNU GLOF 2026 Dataset/
+│   └── Label_Subset/
+│       ├── Class_Labels/
+│       ├── Ground_Truth/
+│       ├── 1.png
+│       ├── 2.png
+│       └── ...
+│
 ├── Segmentation masks for all images/
 │   ├── 1_mask.png
 │   ├── 2_mask.png
 │   └── ...
-│──Youtube_Link
-│──Sample Outputs after masking
-│   ├── Sample_1
-│   ├── Sample_2
+│
+├── Sample Outputs after masking/
+│   ├── Sample_1/
+│   ├── Sample_2/
 │   └── ...
-│── Justification of Key Design Choices.md
+│
+├── Youtube_Link/
+│   └── demo_video_link.txt
+│
+├── Justification of Key Design Choices.md
 ├── REPORT.pdf
 ├── README.md
 └── requirements.txt
