@@ -63,7 +63,7 @@ ICE_KATTI_GLOF_Challenge/
 │   │   ├── Retrained_Model_Validation_and_GT_Comparison.ipynb
 │   │   └── metrics_per_image_partial.csv
 │   │
-│   └── Validation_Report_GLOFeagles_26.pdf   ✅
+│   └── Validation_Report_GLOFeagles_26.pdf   
 │
 ├── Trained model files/
 │   ├── glacier_lake_model_final.pth
