@@ -563,6 +563,8 @@ This allowed us to measure the generalization capability of our original model o
 
 - Mean IoU: **0.4211**
 - Max IoU: **0.9677**
+  
+<img width="827" height="783" alt="image" src="https://github.com/user-attachments/assets/9c2b2aab-e732-4500-aae9-db8534cc0701" />
 
 This experiment demonstrated that the model retained strong performance on certain samples (high Max IoU).
 
