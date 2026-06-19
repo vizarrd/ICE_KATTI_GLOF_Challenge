@@ -506,7 +506,51 @@ To reproduce our results:
 YouTube Link: https://youtu.be/WzjRic_fPHM
 
 ---
+## 🔍 Validation Round Analysis
 
+During the validation phase of the GLOFeagles '26 Challenge, we conducted two separate evaluation strategies to assess and improve our model performance.
+
+---
+
+### Validation Using Pretrained Model (Previous Round Weights)
+
+In the first approach, we directly used the model trained in the previous round and evaluated it on the newly provided validation dataset without any additional training.
+
+This allowed us to measure the generalization capability of our original model on unseen data.
+
+**Results:**
+
+- Mean IoU: **0.4211**
+- Max IoU: **0.9677**
+
+This experiment demonstrated that the model retained strong performance on certain samples (high Max IoU).
+
+---
+
+### 🔁 2. Retraining on Validation Dataset
+
+In the second approach, we retrained the model using the validation images and their corresponding ground-truth labels provided by the organizers.
+
+This allowed the model to better adapt to the specific distribution and characteristics of the validation dataset.
+
+**Final Metrics (Threshold = 0.5):**
+
+- IoU: **0.6933**
+- Precision: **0.8602**
+- Recall: **0.7813**
+- F1 Score: **0.8189**
+- Dice Score: **0.8189**
+- Specificity: **0.9974**
+- Cohen’s Kappa: **0.8154**
+
+**Confusion Matrix Values:**
+
+- True Positives (TP): **2,704,849**
+- False Positives (FP): **439,682**
+- False Negatives (FN): **756,950**
+- True Negatives (TN): **170,686,423**
+
+---
 
 # 👥 Team Members
 
