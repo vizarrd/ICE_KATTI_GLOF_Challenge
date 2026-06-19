@@ -17,12 +17,53 @@ ICE_KATTI_GLOF_Challenge/
 
 ├── 00_Validation/
 │   ├── Validation_Old_Model/
-│   │   ├── Validation_Old_Model.ipynb
-│   │   ├── Labeled_Outputs/
-│   │        
+│   │   ├── Comparison Masks/
+│   │   │   ├── 1001_final.png
+│   │   │   ├── 1002_final.png
+│   │   │   └── ...
+│   │   │
+│   │   ├── Masks/
+│   │   │   ├── Cloud Cover/
+│   │   │   │   ├── 10_mask.png
+│   │   │   │   ├── 168_mask.png
+│   │   │   │   └── ...
+│   │   │   ├── Debris Cover/
+│   │   │   ├── Moraine Dammed/
+│   │   │   ├── Snow Cover/
+│   │   │   ├── Terrain Shadow/
+│   │   │   └── Varying Turbidity/
+│   │   │
+│   │   ├── GLOFEagles_Validation Producing Masks _Old.ipynb
+│   │   ├── GLOFEagles_Validation_Result _Old.ipynb
+│   │   ├── comparison_samples.png
+│   │   ├── coverage_histogram.png
+│   │   ├── model_comparison.png
+│   │   ├── results_gallery.png
+│   │   └── sanity_check_preview.png
+│   │
 │   ├── Validation_Retrained_Model/
-│       ├── Validation_Retrained_Model.ipynb
-│       ├── Labeled_Outputs/
+│   │   ├── Comparison Masks/
+│   │   │   ├── comparison_001.png
+│   │   │   ├── comparison_002.png
+│   │   │   └── ...
+│   │   │
+│   │   ├── Masks/
+│   │   │   ├── Cloud Cover/
+│   │   │   │   ├── 10_mask.png
+│   │   │   │   ├── 168_mask.png
+│   │   │   │   └── ...
+│   │   │   ├── Debris Cover/
+│   │   │   ├── Moraine Dammed/
+│   │   │   ├── Snow Cover/
+│   │   │   ├── Terrain Shadow/
+│   │   │   ├── Varying Turbidity/
+│   │   │   └── final_comparisons/
+│   │   │
+│   │   ├── Model_Retraining_and_Mask_Generation.ipynb
+│   │   ├── Retrained_Model_Validation_and_GT_Comparison.ipynb
+│   │   └── metrics_per_image_partial.csv
+│   │
+│   └── Validation_Report_GLOFeagles_26.pdf   ✅
 │
 ├── Trained model files/
 │   ├── glacier_lake_model_final.pth
