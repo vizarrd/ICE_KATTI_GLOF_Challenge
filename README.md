@@ -608,13 +608,13 @@ This allowed the model to better adapt to the specific distribution and characte
 
 ---
 
-# 🙏 Acknowledgements
+## 🙏 Acknowledgements
 
-This work was developed as part of the GLOFeagles '26 Challenge under NCVPRIPG 2026, organized by **Shiv Nadar University Chennai**.
+This work was developed as part of the **GLOFeagles '26 Challenge** under **NCVPRIPG 2026**, organized by *Shiv Nadar University Chennai*.
 
 We thank the organizers for providing the dataset, evaluation protocol, and challenge platform that enabled this work.
 
-We would also like to express our sincere gratitude to Dr. Sasithradevi A. from VIT Chennai for bringing this challenge to our attention and guiding us towards this opportunity.
+We would also like to express our sincere gratitude to **Dr. Sasithradevi A. (VIT Chennai)** for bringing this challenge to our attention and guiding us towards this opportunity.
 ---
 
 **Team ICE KATTI**  
